@@ -1,0 +1,1 @@
+# metalsmith-inplace-example
