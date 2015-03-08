@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "title": "My Blog",
+    "description": "My second, super-cool blog."
+  },
+  "plugins": {
+    "metalsmith-in-place": {
+      "engine": "handlebars"
+    },
+    "metalsmith-markdown": {},
+    "metalsmith-layouts": {
+      "engine": "handlebars"
+    }
+  }
+}
